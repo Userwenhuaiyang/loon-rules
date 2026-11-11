@@ -1,0 +1,17 @@
+# NAME: 直播电视
+# 直播電視 串流（9 个 IP＋2 个域名）
+IP-CIDR,107.150.60.122/32,no-resolve
+IP-CIDR,173.208.212.130/32,no-resolve
+IP-CIDR,192.151.150.154/32,no-resolve
+IP-CIDR,192.187.124.34/32,no-resolve
+IP-CIDR,198.204.228.26/32,no-resolve
+IP-CIDR,204.12.221.218/32,no-resolve
+IP-CIDR,38.75.136.137/32,no-resolve
+IP-CIDR,63.141.230.178/32,no-resolve
+IP-CIDR,69.30.245.50/32,no-resolve
+DOMAIN,bztv.tvbus.cc
+DOMAIN,phoneal.qing.mgtv.com
+
+# 直播電視 封面（2 个域名）
+DOMAIN,images.weserv.nl
+DOMAIN,upload.wikimedia.org
